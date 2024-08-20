@@ -1,0 +1,68 @@
+body {
+    background: #B6B9DB;
+}
+
+/* Paleta de Colores */
+.bg-color-1 {
+    background: #4D6E92;
+}
+
+.bg-color-2 {
+    background: #6C78AD;
+}
+
+.bg-color-3 {
+    background: #B6B9DB;
+}
+
+.bg-color-4 {
+    background: #FFC5E1;
+}
+
+.bg-color-5 {
+    background: #FFD6EA;
+}
+
+.tx-color-1 {
+    color: #4D6E92;
+}
+
+.tx-color-2 {
+    color: #6C78AD;
+}
+
+.tx-color-3 {
+    color: #B6B9DB;
+}
+
+.tx-color-4 {
+    color: #FFC5E1;
+}
+
+.tx-color-5 {
+    color: #FFD6EA;
+}
+
+/* Item Styles */
+.container {
+    color: #6C78AD;
+    font-family: 'Verdana';
+    font-size: medium;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    border: 1.5px solid #fff;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    background: #FFD6EA;
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 0px #6C78AD;
+    text-shadow: 2px 2px 0px #fff;
+}
+
+
